@@ -1,0 +1,20 @@
+{
+    "@@locale": "en",
+    "home_input_city_name_title": "City name: ",
+    "home_input_city_name_hint": "Input city name",
+    "home_input_long_title": "Longitude",
+    "home_input_lat_title": "Latitude",
+    "home_weather_description": "Weather: ",
+    "home_weather_temperature": "Temperature: ",
+    "home_weather_city": "City: ",
+    "home_switch_input_type_city_name": "Switch to city input type",
+    "home_switch_input_type_city_long_lat": "Switch to long/lat input type",
+    "common_celsius": "°C",
+    "home_error_city_not_found": "City not found",
+    "home_error_invalid_input": "Invalid input",
+    "home_error_please_input_city": "Please input city",
+    "ok" : "ok",
+    "error": "Error",
+    "error_network": "Network error!",
+    "error_unexpected": "Something went wrong!"
+}
